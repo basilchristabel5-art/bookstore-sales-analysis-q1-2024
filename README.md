@@ -115,7 +115,7 @@ Dashboard design and storytelling
 📁 Repository Structure
 Code
 ├── data/                     # Raw and cleaned datasets
-├── dashboards/               # Exported Tableau dashboards
+├── dashboards/               # Tableau dashboards
 ├── presentation/             # Presentation script and slides
 ├── report/                   # Full PDF report
 └── README.md                 # Project documentation
